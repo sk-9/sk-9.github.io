@@ -2,73 +2,75 @@
 layout: default
 section_id: home
 works:
-  - image: images/@stock/msn-work-1.jpg
+  - image: images/@stock/msn-work-1.png
     class: graphic-design
-    title: Beautiful Girl
-    desc: "Design &amp; Development"
-  - image: images/@stock/msn-work-2.jpg
+    title: Ouroboros
+    desc: "A Simple Social App"
+    url: "#"
+  - image: images/@stock/msn-work-2.png
     class: web-design print
-    title: Look at me
-    desc: "Design &amp; Development"
-  - image: images/@stock/msn-work-3.jpg
+    title: CountDwon-lastshot
+    desc: "Count Down the time remaining"
+  - image: images/@stock/msn-work-3.png
     class: brand wide
-    title: Am I cute
-    desc: "Design &amp; Development"
-  - image: images/@stock/msn-work-4.jpg
+    title: Y.T.T
+    desc: "Yesterday,Today,Tomorrow"
+  - image: images/@stock/msn-work-4.png
     class: development
-    title: Umbrella
-    desc: "Design &amp; Development"
-  - image: images/@stock/msn-work-5.jpg
+    title: Programing Techinc
+    desc: "IT related techinc blogs"
+  - image: images/@stock/msn-work-5.png
     class: print brand
-    title: Canned Bros
-    desc: "Design &amp; Development"
-  - image: images/@stock/msn-work-8.jpg
+    title: Is Building
+    desc: "Wait for new content fill this block"
+  - image: images/@stock/msn-work-8.png
     class: web-design
-    title: Hale
-    desc: "Design &amp; Development"
-  - image: images/@stock/msn-work-6.jpg
+    title: Is Building
+    desc: "Wait for new content fill this block"
+  - image: images/@stock/msn-work-6.png
     class: web-design wide
-    title: A beautiful day
-    desc: "Design &amp; Development"
-  - image: images/@stock/msn-work-7.jpg
+    title: Is Building
+    desc: "Wait for new content fill this block"
+  - image: images/@stock/msn-work-7.png
     class: graphic-design
-    title: Flower Book
-    desc: "Design &amp; Development"
-  - image: images/@stock/msn-work-9.jpg
+    title: Is Building
+    desc: "Wait for new content fill this block"
+  - image: images/@stock/msn-work-9.png
     class: web-design wide
-    title: web-design wide
-    desc: "Design &amp; Development"
-  - image: images/@stock/msn-work-10.jpg
+    title: Is Building
+    desc: "Wait for new content fill this block"
+  - image: images/@stock/msn-work-10.png
     class: graphic-design
-    title: Flower Book
-    desc: "Design &amp; Development"
-  - image: images/@stock/msn-work-11.jpg
+    title: Is Building
+    desc: "Wait for new content fill this block"
+  - image: images/@stock/msn-work-11.png
     class: graphic-design
-    title: Flower Book
-    desc: "Design &amp; Development"
-  - image: images/@stock/msn-work-12.jpg
+    title: Is Building
+    desc: "Wait for new content fill this block"
+  - image: images/@stock/msn-work-12.png
     class: graphic-design
-    title: Flower Book
-    desc: "Design &amp; Development"
-  - image: images/@stock/msn-work-13.jpg
+    title: Is Building
+    desc: "Wait for new content fill this block"
+  - image: images/@stock/msn-work-13.png
     class: graphic-design
-    title: Flower Book
-    desc: "Design &amp; Development"
-  - image: images/@stock/msn-work-14.jpg
+    title: Is Building
+    desc: "Wait for new content fill this block"
+  - image: images/@stock/msn-work-14.png
     class: graphic-design
-    title: Flower Book
-    desc: "Design &amp; Development"
-  - image: images/@stock/msn-work-15.jpg
+    title: Is Building
+    desc: "Wait for new content fill this block"
+  - image: images/@stock/msn-work-15.png
     class: graphic-design
-    title: Flower Book
-    desc: "Design &amp; Development"
+    title: Is Building
+    desc: "Wait for new content fill this block"
 ---
 
 <div class='mod modMasonryGallery'>
   <ul class='gallery'>
     {% for work in page.works %}
       <li class='{{work.class}}'>
-        <a href='portfolio-item.html'>
+        <!-- <a href='portfolio-item.html'> -->
+        <a href='{{work.url}}'>
           <img alt="" src="{{work.image}}" />
           <div class='overlay'>
             <div class='thumb-info'>
