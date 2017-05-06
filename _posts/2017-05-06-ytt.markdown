@@ -1,6 +1,6 @@
 ---
 layout: portfolio-post
-title: "Y.T.T - Yesterday, Today, Tomorrow"
+title: "APP - Y.T.T - Yesterday, Today, Tomorrow"
 date: "2017-05-06 19:28:31 +0800"
 permalink: /app/ytt/
 images:
@@ -26,4 +26,4 @@ My target is that making a app easy to use, and match people's habit, just like 
 All regions are available
 
 #### Technical Supporting
-If you have any question about "Ouroboros", you can email to me or leave message with twitter. You can find them in the footer of this web site.
+If you have any question about "Y.T.T", you can email to me or leave message with twitter. You can find them in the footer of this web site.
