@@ -11,7 +11,7 @@ categories: portfolio
 tags: Apps
 author: Sephiroth
 download:
-   iOS: https://itunes.apple.com/cn/app/y-t-t-yesterday-today-tomorrow/id1051072042?mt=8
+   iOS: https://itunes.apple.com/cn/app/countdown-lastshot/id1031865335?mt=8
    #android: https://itunes.apple.com/us/app/xian-wei-she/id1189189371?l=zh&ls=1&mt=8
 ---
 #### Introduction
