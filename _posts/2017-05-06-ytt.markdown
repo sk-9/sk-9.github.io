@@ -1,0 +1,29 @@
+---
+layout: portfolio-post
+title: "Y.T.T - Yesterday, Today, Tomorrow"
+date: "2017-05-06 19:28:31 +0800"
+permalink: /app/ytt/
+images:
+    - /images/@stock/big-msn-work-3.png
+excerpt:
+  Y.T.T - Yesterday, Today, Tomorrow. It is kind of To-Do-List app.
+categories: portfolio
+tags: Apps
+author: Sephiroth
+download:
+   iOS: https://itunes.apple.com/cn/app/y-t-t-yesterday-today-tomorrow/id1051072042?mt=8
+   #android: https://itunes.apple.com/us/app/xian-wei-she/id1189189371?l=zh&ls=1&mt=8
+---
+
+#### Introduction
+It is kind of to-do-list app .But this is more simple than that.
+
+Y.T.T means "Yesterday","Today" and "Tomorrow", so you only need care about very few things. Or we can say you just take yesterday's items as reference, and take more time think about what we need to do today. If you like you can also make a plan about tomorrow's work. And that's all.
+
+My target is that making a app easy to use, and match people's habit, just like you draw or write on a paper with a pencil.
+
+#### Supporting region
+All regions are available
+
+#### Technical Supporting
+If you have any question about "Ouroboros", you can email to me or leave message with twitter. You can find them in the footer of this web site.

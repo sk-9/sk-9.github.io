@@ -1,0 +1,61 @@
+---
+layout: default
+section_id: portfolio
+---
+
+<div class='full' style='background: #333'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <h2 style='color: #fff;'>My portfolio</h2>
+    </div>
+  </div>
+  <div class='two spacing'></div>
+</div>
+<div class='two spacing'></div>
+<div class='full'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <div class='mod modBoxedSlider'>
+        <div class='slides'>
+          {% for image in page.images %}
+            <div class='slide'>
+              <img alt="" src="{{image}}" />
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class='spacing'></div>
+  <div class='row'>
+    <div class='large-8 columns content'>
+      <h2>{{page.title }}</h2>
+      {{content}}
+      <div class='spacing'></div>
+    </div>
+    <div class='large-4 columns'>
+      <ul class='info'>
+        <li>
+          <strong>Author:</strong>
+          {{page.author}}
+        </li>
+        <li>
+          <strong>Date:</strong>
+          <span>{{page.date | date: "%B %d, %Y" }}</span>
+        </li>
+        <li class="two spacing"></li>
+        {% if page.download %}
+        <li><strong>DOWNLOAD</strong> </li>
+        <li class="spacing"></li>
+          {% if page.download.iOS %}
+            <li ><a class='button small fa fa-apple' style="width:150px" href='{{page.download.iOS}}'></a></li>
+          {% endif %}
+          {% if page.download.android %}
+            <li ><a class='button small fa fa-android' style="width:150px" href='{{page.download.android}}'></a></li>
+          {% endif %}
+        {% endif %}
+      </ul>
+    </div>
+  </div>
+  <div class='four spacing'></div>
+</div>
