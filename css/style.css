@@ -3422,3 +3422,17 @@ body {
     display: none;
   }
 }
+
+.python-icon:before{
+  content: url("../images/icons/python.svg");
+  width: 48px;
+  height: 48px;
+  display: inline-block;
+}
+
+.erlang-icon:before{
+  content: url("../images/icons/erlang.svg");
+  width: 48px;
+  height: 48px;
+  display: inline-block;
+}

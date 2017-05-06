@@ -1,0 +1,83 @@
+---
+layout: default
+section_id: services
+services_col_1:
+  - icon_class: fa fa-apple
+    title: iOS Programing
+    desc:  iOS coding skills, such as Objective-C and Swift.
+    url : "#"
+  - icon_class: fa python-icon
+    title: Python
+    desc: Python programing technic.
+    url : "#"
+
+services_col_2:
+  - icon_class: fa fa-android
+    title: Android Programing
+    desc: Android programing related techinc.
+    url : "#"
+  - icon_class: erlang-icon
+    title: Erlang
+    desc: Erlang programing technic.
+    url : "#"
+---
+
+<div class='full' style='background: #333'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <h2 style='color: #fff;'>Programing Technic</h2>
+    </div>
+  </div>
+  <div class='two spacing'></div>
+</div>
+<div class='full'>
+  <div class='row'>
+    <div class='medium-6 columns'>
+      {% for service in page.services_col_1 %}
+        <div class='fadein mod modIconText' data-delay='{{ 300 | times:forloop.index0 }}'>
+          <a style="display:block" href="{{service.url}}">
+            <div class='icon-text-simple'>
+              <i class='{{service.icon_class}}'></i>
+              <h3>{{service.title}}</h3>
+              <p style="color:#c5c5c5">{{service.desc}}</p>
+            </div>
+          </a>
+          <div class='two spacing'></div>
+        </div>
+      {% endfor %}
+    </div>
+    <div class='medium-6 columns'>
+      {% for service in page.services_col_2 %}
+        <div class='fadein mod modIconText' data-delay='{{ 300 | times:forloop.index0 }}'>
+          <a style="display:block" href="{{service.url}}">
+            <div class='icon-text-simple'>
+              <i class='{{service.icon_class}}'></i>
+              <h3>{{service.title}}</h3>
+              <p style="color:#c5c5c5">{{service.desc}}</p>
+            </div>
+          </a>
+          <div class='two spacing'></div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+  <div class='two spacing'></div>
+</div>
+<div class='full' style='background: #f5f5f5'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <div class='mod modBoxedTextSlider'>
+        <div class='boxes'>
+          {% for service in page.other_services %}
+            <div class='box' style='background: #f9f9f9;'>
+              <i class='{{service.icon_class}}'></i>
+              <h4>{{service.title}}</h4>
+              <p>{{service.desc}}</p>
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class='four spacing'></div>
+</div>
