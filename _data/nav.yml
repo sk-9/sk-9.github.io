@@ -10,6 +10,6 @@
 # - name: Portfolio
 #   path: portfolio.html
 #   section_id: portfolio
-- name: About & Contact
+- name: About
   path: about.html
   section_id: about
