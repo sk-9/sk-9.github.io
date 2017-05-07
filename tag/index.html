@@ -1,0 +1,23 @@
+---
+layout: blog
+section_id: tag
+title : Tag List
+---
+<div class='full'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      {% for tag in site.tags %}
+        {% assign pages_list = tag[1] %}
+          <div id="{{tag|first}}" class="postList">
+          <h2>{{ tag | first }}</h2>
+          {% for node in pages_list %}
+            <div class="content">
+              <h4><a href="{{ site.BASE_PATH }}{{node.url}}">{{node.title}}</a></h4>
+              <p>{{node.excerpt}}</p>
+            </div>
+          {% endfor %}
+        <hr>
+        </div>
+      {% endfor %}
+  </div>
+</div>

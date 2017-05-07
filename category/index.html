@@ -1,0 +1,23 @@
+---
+layout: blog
+section_id: tag
+title : Category List
+---
+<div class='full'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      {% for cat in site.categories %}
+        {% assign pages_list = cat[1] %}
+          <div id="{{ cat | first }}" class="postList">
+          <h3>{{ cat | first }}</h3>
+          {% for node in pages_list %}
+            <div class="content">
+              <h4><a href="{{ site.BASE_PATH }}{{node.url}}">{{node.title}}</a></h4>
+              <p>{{node.excerpt}}</p>
+            </div>
+          {% endfor %}
+        <hr>
+        </div>
+      {% endfor %}
+  </div>
+</div>

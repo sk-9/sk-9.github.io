@@ -1,6 +1,6 @@
 ---
 layout: portfolio-post
-title: "APP - Y.T.T - Yesterday, Today, Tomorrow"
+title: "App - Y.T.T"
 date: "2017-05-06 19:28:31 +0800"
 permalink: /app/ytt/
 images:
@@ -9,7 +9,6 @@ excerpt:
   Y.T.T - Yesterday, Today, Tomorrow. It is kind of To-Do-List app.
 categories: portfolio
 tags: Apps
-author: Sephiroth
 download:
    iOS: https://itunes.apple.com/cn/app/y-t-t-yesterday-today-tomorrow/id1051072042?mt=8
    #android: https://itunes.apple.com/us/app/xian-wei-she/id1189189371?l=zh&ls=1&mt=8

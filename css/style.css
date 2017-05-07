@@ -3423,6 +3423,12 @@ body {
   }
 }
 
+/*customize css*/
+code {
+  background-color:transparent;
+  border-style: none;
+}
+
 .python-icon:before{
   content: url("../images/icons/python.svg");
   width: 48px;
@@ -3435,4 +3441,28 @@ body {
   width: 48px;
   height: 48px;
   display: inline-block;
+}
+
+.postList{
+  margin-bottom: 30px;
+  background: #fff;
+}
+
+.postList .content{
+  padding-left: 40px;
+  padding-bottom: 20px;
+}
+
+.postList h3 {
+  font-size: 1.4rem;
+  line-height: 1.4;
+}
+
+.postList .content h4 a {
+  color: #333;
+  line-height: 1.2;
+}
+
+.postList content p{
+  line-height: 1.2;
 }

@@ -11,7 +11,19 @@
       <div class='full' style='background: #333'>
         <div class='row'>
           <div class='large-12 columns'>
-            <h2 style='color: #fff;'>My blog</h2>
+            <h2 style='color: #fff;'> 
+              {% if page.categories %}
+                {{page.categories[0]| capitalize}} post
+              {% else %}
+              
+                {% if page.title %}
+                  {{page.title}}
+                {% else %}
+                  my post
+                {% endif %}
+                
+              {% endif %}
+            </h2>
           </div>
         </div>
         <div class='two spacing'></div>

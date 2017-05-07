@@ -10,6 +10,9 @@ section_id: blog
       {% for post in paginator.posts %}
         <div class='big mod modBlogPost no_bg'>
           <div class='images'>
+            {% if post.images %}
+              <div class='image'><img alt="" src="{{site.url}}/{{post.images[0]}}" /></div>
+            {% endif %}
             {% if post.image %}
               <div class='image'><img alt="" src="{{site.url}}/{{post.image}}" /></div>
             {% endif %}
@@ -20,7 +23,7 @@ section_id: blog
               /
               <span>
                 by
-                <a href="">{{post.author}}</a>
+                {{post.author}}
               </span>
               /
               <span>
@@ -31,10 +34,6 @@ section_id: blog
                       ,
                   {% endunless %}
                 {% endfor %}
-              </span>
-              /
-              <span>
-                <a href="#">4 commetns</a>
               </span>
             </p>
             <h3><a href="{{post.url}}">{{post.title}}</a></h3>

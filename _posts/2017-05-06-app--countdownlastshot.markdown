@@ -1,6 +1,6 @@
 ---
 layout: portfolio-post
-title: "countdown-lastshot"
+title: "App - CountDown-Lastshot"
 date: "2017-05-06 21:20:11 +0800"
 permalink: /app/countdown-lastshot/
 images:
@@ -9,7 +9,6 @@ excerpt:
   CountDown-Lastshot. An countdown app.
 categories: portfolio
 tags: Apps
-author: Sephiroth
 download:
    iOS: https://itunes.apple.com/cn/app/countdown-lastshot/id1031865335?mt=8
    #android: https://itunes.apple.com/us/app/xian-wei-she/id1189189371?l=zh&ls=1&mt=8

@@ -12,7 +12,7 @@ section_id: portfolio
   <div class='two spacing'></div>
 </div>
 <div class='two spacing'></div>
-<div class='full'>
+<div id="content" class='full'>
   <div class='row'>
     <div class='large-12 columns'>
       <div class='mod modBoxedSlider'>
@@ -43,10 +43,11 @@ section_id: portfolio
           <strong>Date:</strong>
           <span>{{page.date | date: "%B %d, %Y" }}</span>
         </li>
-        <li class="two spacing"></li>
+
         {% if page.download %}
-        <li><strong>DOWNLOAD</strong> </li>
-        <li class="spacing"></li>
+          <li class="two spacing"></li>
+          <li><strong>DOWNLOAD</strong> </li>
+          <li class="spacing"></li>
           {% if page.download.iOS %}
             <li ><a class='button small fa fa-apple' style="width:150px" href='{{page.download.iOS}}'></a></li>
           {% endif %}
@@ -54,6 +55,11 @@ section_id: portfolio
             <li ><a class='button small fa fa-android' style="width:150px" href='{{page.download.android}}'></a></li>
           {% endif %}
         {% endif %}
+          <li class="spacing"></li>
+          <li><strong>OTHER PORTFOLIOS</strong> </li>
+          {% for post in site.categories.portfolio %}
+            <li ><a style="color:#999" href='{{ post.url }}#content'>{{ post.title }}</a></li>
+          {% endfor %}
       </ul>
     </div>
   </div>

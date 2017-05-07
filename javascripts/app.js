@@ -29,7 +29,7 @@ jQuery.extend({
 })(jQuery.fn.removeClass);
 
 jQuery(document).ready(function() {
-  jQuery('html').removeClass('no-js');
+  jQuery('html').removeClass('no-js');  
 });
 
 jQuery(document).foundation();
