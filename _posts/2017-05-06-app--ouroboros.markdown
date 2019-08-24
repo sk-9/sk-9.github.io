@@ -1,7 +1,7 @@
 ---
 layout: portfolio-post
 title: "App - Ouroboros"
-date: "2017-05-06 15:50:04 +0800"
+date: "2019-08-024 15:50:04 +0800"
 permalink: /app/ouroboros/
 images:
     - /images/@stock/big-msn-work-1.png
@@ -12,27 +12,28 @@ tags: Apps
 author: Sephiroth
 download:
    iOS: https://itunes.apple.com/us/app/xian-wei-she/id1189189371?l=zh&ls=1&mt=8
-   #android: https://itunes.apple.com/us/app/xian-wei-she/id1189189371?l=zh&ls=1&mt=8
+  #  android: https://freebladeapk.oss-cn-shanghai.aliyuncs.com/ouroboros.apk
+  cloudAndroid:https://freebladeapk.oss-cn-shanghai.aliyuncs.com/ouroboros.apk
 ---
 
 #### Introduction
-This is a social app used to contact with your real-life friends and friends' friends.
+This is a social app used build connection with your real-life friends and friends’ friends.
 
-It is only can be used when some app user invite you to join. And you two would be direct friends, and inviter's other friends
-would become your indirect friends. There is no difference between direct-friends and indirect-friends when your wanna normal interacts,
-such as sending message, post comment on each other's post or writing comment on personal pages. But when you become direct-friends you would
-see each other's direct-friends. That's kind of direct-friends' benefit. And also you can change your direct-friends' information, such as age and
-job, etc.
+Software may be restrictive, but the goal is to avoid introducing extraneous awkwardness as much as possible. In the end, it's all about the friends you care about and how you feel. Have a good environment to communicate with your friends in your busy work life.
 
-So you can build relationship with your friends' friends, who maybe you don't know each other yet. And build your half-open friends' circle.
+This product, this time open registration function, but please try to use the invite function, so that you can immediately establish a friend connection with your real friends, and help you introduce their direct friends as your indirect friends.
+
+At the same time, you have a limit of 10 to send connection requests to friends who are already registered but cannot be invited. Therefore, it is more advisable to try the invitation first, so as to save the limited amount for the real use later.
+
+The App is set up in a relatively closed environment, hoping to save a comfortable pure land for all users. Please try to avoid using it in a work relationship. Otherwise you won't feel the real benefits and it won't fit.
 
 #### Supporting region
-It is Support in China only right now. And I am trying to make it support more region.
+It is Support in China, Hongkong SAR China,Taiwan-China, Australia, Canada, Japan, Singapore, South Korea, United kingdom, United States right now.
 
 #### How can you use it
-Firstly, you can only download it in China AppStore.
-Secondly, you should be invite by someone already use this app, it doesn't accept self register.
-After you are invited by your friend, you would receive a SMS message which contains your initial password and download link.
+Firstly, you can only download it in AppStore, Google Play or from the link below.
+Secondly, you should be invite by someone already use this app, or you can register as a user.
+if you are invited by your friend, you would receive a SMS message which contains your initial password.
 Then, you can login and have fun with your friends.
 
 #### Technical Supporting
