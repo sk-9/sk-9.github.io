@@ -1,7 +1,7 @@
 ---
 layout: portfolio-post
 title: "App - Ouroboros"
-date: "2019-08-24 15:50:04 +0800"
+date: "2017-05-06 15:50:04 +0800"
 permalink: /app/ouroboros/
 images:
     - /images/@stock/big-msn-work-1.png
