@@ -12,8 +12,8 @@ tags: Apps
 author: Sephiroth
 download:
    iOS: https://itunes.apple.com/us/app/xian-wei-she/id1189189371?l=zh&ls=1&mt=8
-   android: https://freebladeapk.oss-cn-shanghai.aliyuncs.com/ouroboros.apk
-  # cloudAndroid:https://freebladeapk.oss-cn-shanghai.aliyuncs.com/ouroboros.apk
+  #  android: https://freebladeapk.oss-cn-shanghai.aliyuncs.com/ouroboros.apk
+  cloudAndroid:https://freebladeapk.oss-cn-shanghai.aliyuncs.com/ouroboros.apk
 ---
 
 #### Introduction
