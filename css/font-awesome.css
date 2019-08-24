@@ -1239,6 +1239,11 @@
 .fa-android:before {
   content: "\f17b";
 }
+
+.fa-cloud-android:before {
+  content: "\f17b[\f0ed]";
+}
+
 .fa-linux:before {
   content: "\f17c";
 }
