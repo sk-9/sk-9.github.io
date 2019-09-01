@@ -8,7 +8,7 @@ author: Sephiroth
 
 What data we collect about you?
 
-We collect information when you set up your Ouroboros account and use the services available within Ouroboros (such as posting photos to your Moments feed or following Official Accounts). To set up your account, we collect your nickname, mobile number, and a password. You can further refine and populate your profile with additional information.
+We collect information when you set up your Ouroboros account and use the services available within Ouroboros. To set up your account, we collect your nickname, mobile number, and a password. You can further refine and populate your profile with additional information.
 
 How do we use your info?
 
@@ -130,3 +130,4 @@ Please be aware that despite our efforts, no data security measures can guarante
 
 PERIOD OF USE OF YOUR PERSONAL INFORMATION
 We will retain your Personal Information as set out in the following table, except where we are otherwise required to retain such data in accordance with law. Should you or we terminate your account for any reason, we will take steps to ensure that your Personal Information is no longer available through Ouroboros, or otherwise used by us, within a reasonable period of time (subject to technical limitations) after such account termination.
+
