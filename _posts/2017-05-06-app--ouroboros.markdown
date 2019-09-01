@@ -13,7 +13,7 @@ author: Sephiroth
 download:
    iOS: https://itunes.apple.com/us/app/xian-wei-she/id1189189371?l=zh&ls=1&mt=8
    cloud: https://freebladeapk.oss-cn-shanghai.aliyuncs.com/ouroboros.apk
-  #  android: https://freebladeapk.oss-cn-shanghai.aliyuncs.com/ouroboros.apk
+  #  android: https://play.google.com/store/apps/details?id=net.freeblade.connects
 ---
 
 #### Introduction
