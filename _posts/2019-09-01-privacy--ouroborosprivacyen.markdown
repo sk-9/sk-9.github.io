@@ -66,13 +66,13 @@ Whenever we make any changes to this Privacy Policy that are important for you t
 TYPES OF INFORMATION WE PROCESS
 
 We process different categories of information and data in providing Ouroboros. These are set out below:
-	"Location Data" is information that is derived from your GPS, WiFi, compass, accelerometer, or public posts that contain location information. You will disclose certain location information to us and to other Ouroboros users:
+"Location Data" is information that is derived from your GPS, WiFi, compass, accelerometer, or public posts that contain location information. You will disclose certain location information to us and to other Ouroboros users:
 
-	"Log Data" is information that we automatically collect when you use Ouroboros
+"Log Data" is information that we automatically collect when you use Ouroboros
 
-	"Personal Information" is any information, or combination of information, that relates to you, that can be used (directly or indirectly) to identify you. We set out examples of Personal Information (and how we collect such Personal Information) in "How we process your information" below.
+"Personal Information" is any information, or combination of information, that relates to you, that can be used (directly or indirectly) to identify you. We set out examples of Personal Information (and how we collect such Personal Information) in "How we process your information" below.
 	
-    "Shared Information" is information about you or relating to you that is voluntarily shared by you on Ouroboros. Shared Information may include postings that you make on Ouroboros , any postings from others and Location Data and Log Data associated with such postings. Shared Information also includes information about you (including Location Data and Log Data) that others who are using Ouroboros share about you.
+"Shared Information" is information about you or relating to you that is voluntarily shared by you on Ouroboros. Shared Information may include postings that you make on Ouroboros , any postings from others and Location Data and Log Data associated with such postings. Shared Information also includes information about you (including Location Data and Log Data) that others who are using Ouroboros share about you.
 
 References to "Information" in this Privacy Policy mean both Personal Information and Non-Personal Information.
 
@@ -90,10 +90,10 @@ SHARING OF YOUR PERSONAL INFORMATION
 We will not transfer your Personal Information to any other third parties except as specified below, or in circumstances where you consent to such transfer.
 We share your information with selected recipients who have a legal basis and valid jurisdiction to request such data. These categories of recipients include:
 
-	government, public, regulatory, judicial and law enforcement bodies or authorities: where we are required to comply with applicable laws or regulation, a court order, subpoena or other legal process, or otherwise have a legal basis to respond to a request for data from such bodies, and the requesting entity has valid jurisdiction to obtain your personal information;
-	related group companies: we share your Personal Information within our group of companies, including  International Service Europe BV (located in the Netherlands),  International Service Pte. Ltd (located in Singapore), Ouroboros International Pte Ltd (located in Singapore) and Oriental Power Holdings Limited (located in Hong Kong) and Ouroboros International (Canada) Limited (located in Canada) that run the Hong Kong and Canadian Servers, for the purpose of:
-	providing Ouroboros to you, assisting us in carrying out the purposes set out under the "How We Collect and Process Your Information" section above, and carrying out our obligations and enforcing our rights under the Ouroboros Terms of Service or this Privacy Policy; and in the event of an internal restructuring of our or our affiliates businesses, or the sale of Ouroboros or any of its assets to a third party, the entity that consequently operates Ouroboros may be a different entity to us and we will transfer your information accordingly so that your service can continue;
-	third party service providers: service providers supplying services to support, improve. These include communication service providers who send SMSs on our behalf. We also use service providers to help speed up content delivery to you in your region using acceleration points and content delivery networks; and to provide location and mapping data. 
+government, public, regulatory, judicial and law enforcement bodies or authorities: where we are required to comply with applicable laws or regulation, a court order, subpoena or other legal process, or otherwise have a legal basis to respond to a request for data from such bodies, and the requesting entity has valid jurisdiction to obtain your personal information;
+related group companies: we share your Personal Information within our group of companies, including  International Service Europe BV (located in the Netherlands),  International Service Pte. Ltd (located in Singapore), Ouroboros International Pte Ltd (located in Singapore) and Oriental Power Holdings Limited (located in Hong Kong) and Ouroboros International (Canada) Limited (located in Canada) that run the Hong Kong and Canadian Servers, for the purpose of:
+providing Ouroboros to you, assisting us in carrying out the purposes set out under the "How We Collect and Process Your Information" section above, and carrying out our obligations and enforcing our rights under the Ouroboros Terms of Service or this Privacy Policy; and in the event of an internal restructuring of our or our affiliates businesses, or the sale of Ouroboros or any of its assets to a third party, the entity that consequently operates Ouroboros may be a different entity to us and we will transfer your information accordingly so that your service can continue;
+third party service providers: service providers supplying services to support, improve. These include communication service providers who send SMSs on our behalf. We also use service providers to help speed up content delivery to you in your region using acceleration points and content delivery networks; and to provide location and mapping data. 
 
 SHARED INFORMATION
 
