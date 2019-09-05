@@ -1,7 +1,7 @@
 ---
 layout: portfolio-post
 title: "App - Ouroboros"
-date: "2017-05-06 15:50:04 +0800"
+date: "2019-09-05 15:50:04 +0800"
 permalink: /app/ouroboros/
 images:
     - /images/@stock/big-msn-work-1.png
@@ -15,7 +15,14 @@ download:
    cloud: https://freebladeapk.oss-cn-shanghai.aliyuncs.com/ouroboros.apk
    android: https://play.google.com/store/apps/details?id=net.freeblade.connects
 ---
+#### Where to get ?
 
+  **[App Store ( for iOS )](https://itunes.apple.com/us/app/xian-wei-she/id1189189371?l=zh&ls=1&mt=8)**
+
+  **[Google Play ( for Android )](https://play.google.com/store/apps/details?id=net.freeblade.connects)**
+
+  **[Download APK ( for Android )](https://freebladeapk.oss-cn-shanghai.aliyuncs.com/ouroboros.apk)**
+  
 #### Introduction
 This is a social app used build connection with your real-life friends and friends’ friends.
 
@@ -28,7 +35,7 @@ At the same time, you have a limit of 10 to send connection requests to friends 
 The App is set up in a relatively closed environment, hoping to save a comfortable pure land for all users. Please try to avoid using it in a work relationship. Otherwise you won't feel the real benefits and it won't fit.
 
 #### Supporting region
-It is Support in China, Hongkong SAR China,Taiwan-China, Australia, Canada, Japan, Singapore, South Korea, United kingdom, United States right now.
+It is Support in **China**, **Hongkong SAR China**,**Taiwan-China**, **Australia**, **Canada**, **Japan**, **Singapore**, **South Korea**, **United kingdom**, **United States** right now.
 
 #### How can you use it
 Firstly, you can only download it in AppStore, Google Play or from the link below.
