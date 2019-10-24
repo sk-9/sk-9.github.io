@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ouroboros Privacy Protection Summary"
+title: "Marker Privacy Protection Summary"
 date: "2019-10-23 23:50:04 +0800"
 permalink: /app/markerprivacyen/
 author: Sephiroth
