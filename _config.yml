@@ -16,7 +16,7 @@ author:
   name: Sephiroth
   email: sk.winer@gmail.com
   twitter: HiSephi
-  github:  sk-9
+  # github:  sk-9
 # Build settings
 markdown: kramdown
 
