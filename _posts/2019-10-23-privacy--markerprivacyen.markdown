@@ -6,6 +6,6 @@ permalink: /app/markerprivacyen/
 author: Sephiroth
 ---
 
-All data, you saved in this app, saved in you iCloud. You can delete it by youself in your iCloud setting.
+All data, you saved in this app, saved in your iCloud. You can delete it by youself in your iCloud setting.
 
 If you disable iCloud to this App. all data would be saved locally. If you delete App, the data would be lost. So, we recommend don't disable iCould to this App, which can keep your data safe.
