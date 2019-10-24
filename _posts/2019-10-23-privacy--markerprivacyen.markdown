@@ -6,8 +6,6 @@ permalink: /app/markerprivacyen/
 author: Sephiroth
 ---
 
-We don't collect any data of you
+All data, you saved in this app, saved in you iCloud. You can delete it by youself in your iCloud setting.
 
-All you data stored in your iCloud. You can delete all of it by youself in your iCloud setting.
-
-So you can feel relieved to use this app that no personal data would used by any one else.
+If you disable iCloud to this App. all data would be saved locally. If you delete App, the data would be lost. So, we recommend don't disable iCould to this App, which can keep your data safe.
