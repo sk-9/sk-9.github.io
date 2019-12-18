@@ -10,7 +10,7 @@ excerpt:
 categories: portfolio
 tags: Apps
 download:
-#    iOS: https://itunes.apple.com/cn/app/countdown-lastshot/id1031865335?mt=8
+   iOS: https://apps.apple.com/us/app/ar-stickies/id1489698312?l=zh&ls=1
 ---
 #### Introduction
 
